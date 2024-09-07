@@ -1,15 +1,15 @@
 # Vamos lá você é meu maior idolo,Heroi,amigo,entre diversas coisas que só nos sabemos mensurar...
 
 ## Você ainda irá conquistar muitas coisas se acalme, relaxa, você não tem noção :)
-1 Vamos nessa;
-    1 opa, vamos sim! 
-    2 A vida é uma dadiva;
+1. Vamos nessa;
+    1. opa, vamos sim! 
+    2. A vida é uma dadiva;
 
-2 Levanta a cabeça;
+2. Levanta a cabeça;
 
-3 VocÊ consegue;
+3. VocÊ consegue;
 
-4 Todos podemos ser o que quisermos _**S2**_.
+4. Todos podemos ser o que quisermos _**S2**_.
 
 ### Opá estamos indo muito bem neste ano de 2024, já tiramos nossa cnh, estamos prester a terminar o ensino superior, foco meu amigo, paciência e determinação.
 
