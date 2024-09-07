@@ -20,4 +20,5 @@
 
 [adicionando_imagens]
 
+[ ] está tudo bem? 
 
