@@ -2,7 +2,8 @@
 
 ## Você ainda irá conquistar muitas coisas se acalme, relaxa, você não tem noção :)
 1 Vamos nessa;
-1 opa, vamos sim! 2 A vida é uma dadiva;
+    1 opa, vamos sim! 
+    2 A vida é uma dadiva;
 
 2 Levanta a cabeça;
 
