@@ -1,4 +1,4 @@
-#Elefante
+#ELEFANTE
 
 Um elefante é um *Animal* Mamifero que se encontra no continente **Africano** 
 
