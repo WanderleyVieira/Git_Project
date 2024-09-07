@@ -19,7 +19,7 @@
 * _Quando **estiver** cansado seja empatico consigo mesmo, o tal da voz que soa tentando nos colocar para baixo irá surgir, apenas respire fundo agradeça e let´s go / Just do it, it´s none impossible._
 
 <<<<<<< HEAD
-![adicionando_imagens](\CameraRoll\chama.jpeg);
+[![adicionando_imagens](\CameraRoll\chama.jpeg)](https://translate.google.com/?sl=en&tl=pt&text=Just%20do%20it%20%2C%20not%20impossible.&op=translate)
 
 
 
