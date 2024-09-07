@@ -1,6 +1,6 @@
 # ELEFANTE
 
-Um elefante é um * Animal * Mamifero que se encontra no continente **Africano** 
+Um elefante é um *Animal* Mamifero que se encontra no continente **Africano** 
 
 ## Segundo as Historias do que um elefante tem medo?
 
