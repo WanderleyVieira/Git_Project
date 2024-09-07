@@ -1,0 +1,15 @@
+#Elefante
+
+Um elefante é um *Animal* Mamifero que se encontra no continente **Africano** 
+
+## Segundo as Historias do que um elefante tem medo?
+
+O elefante tem medo de **_Rato_**
+
+#Elefante
+
+Um elefante é um *Animal* Mamifero que se encontra no continente **Africano** 
+
+## Segundo as Historias do que um elefante tem medo?
+
+O elefante tem medo de **_Rato_**
