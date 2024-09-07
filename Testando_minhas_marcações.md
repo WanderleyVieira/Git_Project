@@ -15,6 +15,6 @@
 #### Estou muito feliz pela trajetoria que você está construindo, vamos pra cima haha
 
 * Como dizia em meus pensamentos, vamos pra cima você consegue, não se intimide.
-* Quando estiver cansado seja empatico consigo mesmo, o tal da voz que soa tentando nos colocar para baixo irá surgir, apenas respire fundo agradeça e let´s go / Just do it, it´s none impossibol.
+* Quando estiver cansado seja empatico consigo mesmo, o tal da voz que soa tentando nos colocar para baixo irá surgir, apenas respire fundo agradeça e let´s go / Just do it, it´s none impossible.
 
 
