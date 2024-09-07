@@ -18,7 +18,7 @@
 * Como dizia em meus pensamentos, vamos pra cima você consegue, não se intimide.
 * _Quando **estiver** cansado seja empatico consigo mesmo, o tal da voz que soa tentando nos colocar para baixo irá surgir, apenas respire fundo agradeça e let´s go / Just do it, it´s none impossible._
 
- ![adicionando_imagens](https://i.pinimg.com/222x/14/1d/8d/141d8d36115fa3ae433b4ea31739e652.jpg);
+ ![adicionando_imagens](C:\Users\user\Pictures\Camera Roll\chama.jpg);
 
 [ ] está tudo bem? 
 
