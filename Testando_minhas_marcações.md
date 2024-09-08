@@ -19,7 +19,7 @@
 * _Quando **estiver** cansado seja empatico consigo mesmo, o tal da voz que soa tentando nos colocar para baixo irá surgir, apenas respire fundo agradeça e let´s go / Just do it, it´s none impossible._
 
 
-![adicionando_imagens](C:\Users\user\Pictures\chama.jpeg);
+![adicionando_imagens](Pictures\chama.jpeg);
 
 
 [ ] está tudo bem? 
