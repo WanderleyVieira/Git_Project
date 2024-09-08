@@ -20,7 +20,7 @@
 
 ![ chama](Projetos Git\Git_Project\cha\chama.png);
 
--[x] Você comprou outro tênis? 
+- [x] Você comprou outro tênis? 
 
 - [ ] Dormir agora?
  
