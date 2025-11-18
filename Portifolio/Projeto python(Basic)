@@ -1,0 +1,52 @@
+cadastrado= ''
+lista= []
+
+while True:
+    try:
+        print(f'Escolha dentre as opções abaixo: \
+    [1] Cadastrar produto\
+    [2] Listar produtos\
+    [3] Buscar produto pelo nome\
+    [4] Remover produto pelo nome\
+    [5] Sair')
+
+        opcao= input('Digite a opção desejada: ')
+        op= int(opcao)
+        if op == 1:
+            nome_produto= input('Digite o nome do produto\
+a ser cadastrado: '.lower())
+            lista.append(nome_produto)
+            cadastrado += nome_produto
+            print(f'Produto {cadastrado} cadastrado com sucesso')
+            cadastrado= ''
+            continue
+        
+        if op == 2:   
+            if len(lista) == 0:
+                print("Nenhum produto cadastrado.")
+            else:
+                print(lista)
+            continue
+        
+        if op == 3: 
+            procurar= input('Buscar produto pelo nome: '.lower())
+            if procurar in lista:
+                print(f'Produto encontrado: {procurar}')
+            else:
+                    print(f'Produto não encontrado')
+            continue
+            
+        if op == 4: 
+            remover= input('Remover produto pelo nome: '.lower())
+            if remover in lista:
+                lista.remove(remover)
+                print(f'Produto {remover} removido')
+                
+            else:
+                print(f'produto não encontrado')
+
+        if op == 5: 
+            print('Finalizando programa...')
+            break
+    except:
+        print('error')
